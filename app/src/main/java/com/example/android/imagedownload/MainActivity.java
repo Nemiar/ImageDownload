@@ -125,6 +125,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         }
         finally {
 
+            //look can be done by runOnUIThread()
             handler.post(new Runnable() {
                 @Override
                 public void run() {
