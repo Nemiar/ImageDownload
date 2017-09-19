@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Handler</string>
+
+    <string-array name="Urls">
+        <item>Image 1</item>
+        <item>Image 2</item>
+        <item>Image 3</item>
+    </string-array>
+
+    <string-array name="imageUrls">
+        <item>https://www.gstatic.com/kpui/social/twitter_32x32.png</item>
+        <item>http://www.qygjxz.com/data/out/104/5607230-hd-images-download.png</item>
+        <item>http://www.qygjxz.com/data/out/78/3737514-ferrari-wallpaper.jpg</item>
+    </string-array>
+</resources>
