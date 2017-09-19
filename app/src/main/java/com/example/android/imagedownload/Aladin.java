@@ -16,4 +16,15 @@ public class Aladin{
     public void PullTest(){
        String mere="getting error";
     }
+    public void doSomeWork(){
+        int i=7;
+        int ii=30;
+        int iii=56;
+
+        String iiString;
+
+        if(i<100){
+            iiString=Integer.toString(ii+6);
+        }
+    }
 }
