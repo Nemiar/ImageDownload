@@ -6,4 +6,6 @@ package com.example.android.imagedownload;
 
 public class Aladin{
     String myName="aladin";
+
+    String username="shanto";
 }
