@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
     private EditText editText;
     private Button button;
     String imagesLinks[];
+
     private ProgressBar progressBar;
     LinearLayout loadingSecton=null;
     ListView listView;
