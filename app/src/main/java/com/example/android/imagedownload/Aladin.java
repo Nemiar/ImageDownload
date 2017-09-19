@@ -8,4 +8,6 @@ public class Aladin{
     String myName="aladin";
 
     String username="shanto";
+
+    int roll=66;
 }
