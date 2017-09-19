@@ -11,6 +11,12 @@ public class Aladin{
 
     int roll=60;
 
+    String afterCheck="This is the shantoBranch2";
+
+    public void PullTest(){
+        String mere="getting error";
+    }
+
     public void AladinBranch(){
 
     }
