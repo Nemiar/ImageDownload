@@ -12,4 +12,8 @@ public class Aladin{
     int roll=66;
 
     String afterCheck="This is the shantoBranch2";
+
+    public void PullTest(){
+
+    }
 }
