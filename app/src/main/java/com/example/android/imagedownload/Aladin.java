@@ -10,4 +10,6 @@ public class Aladin{
     String username="shanto";
 
     int roll=66;
+
+    String afterCheck="This is the shantoBranch2";
 }
