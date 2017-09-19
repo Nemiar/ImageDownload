@@ -10,4 +10,10 @@ public class Aladin{
     String username="shanto";
 
     int roll=66;
+
+    public void AladinBranch(){
+
+    }
 }
+
+
