@@ -14,6 +14,6 @@ public class Aladin{
     String afterCheck="This is the shantoBranch2";
 
     public void PullTest(){
-
+       String mere="getting error";
     }
 }
