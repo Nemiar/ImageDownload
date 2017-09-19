@@ -10,17 +10,10 @@ public class Aladin{
     String username="shanto";
 
     int roll=60;
-    int id=339;
-
+    int id=330;
     String afterCheck="This is the shantoBranch2";
 
     public void PullTest(){
-        String mere="getting error";
-    }
-
-    public void AladinBranch(){
-
+       String mere="getting error";
     }
 }
-
-
